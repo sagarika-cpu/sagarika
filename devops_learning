@@ -1,2 +1,7 @@
-learning about git
-  learning how to create repository
+git clone (url) - copy the entire remote repository to local system
+git status
+git add
+git pull
+git push
+git commit
+  
