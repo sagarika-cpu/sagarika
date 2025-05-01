@@ -6,4 +6,5 @@ git push
 git commit
 git checkout
 git origin main
-  
+  gitchange
+git branch
