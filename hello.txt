@@ -3,5 +3,7 @@ hi i'm learning github
 learning about git braching
 created the test branch
 learning about repository
-
+local repository
+remote repository
+working directory
 
