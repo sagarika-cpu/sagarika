@@ -6,4 +6,5 @@ learning about repository
 local repository
 remote repository
 working directory
+git branching
 
