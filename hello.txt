@@ -8,4 +8,4 @@ remote repository
 working directory
 git branching
 reviwing changes by reviewer before merging
-
+git conflicts
