@@ -9,3 +9,5 @@ working directory
 git branching
 reviwing changes by reviewer before merging
 git conflicts
+git reset
+git reset --soft
